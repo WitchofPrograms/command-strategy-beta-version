@@ -1,19 +1,1 @@
-# Xcode user data
-*.xcuserstate
-*.xcscmblueprint
-*.xccheckout
-*.xcworkspace/
-*.xcuserdata/
-*.xcuserdatad/
-*.xcodeproj/xcuserdata/
-
-# Build products
-build/
-DerivedData/
-
-# macOS specific
-.DS_Store
-
-# Other
-*.swp
 
